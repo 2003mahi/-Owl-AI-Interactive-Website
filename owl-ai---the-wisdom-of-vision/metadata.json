@@ -1,0 +1,8 @@
+{
+  "name": "Owl AI - The Wisdom of Vision",
+  "description": "A sophisticated AI platform leveraging Gemini technology for night-vision image analysis, real-time voice intelligence, and deep reasoning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
